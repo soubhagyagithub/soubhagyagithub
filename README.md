@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce application<br>🌱 I’m currently learning React, TypeScript, MongoDB<br>💬 Ask me about Nodejs, JavaScript<br>📫 How to reach me soubhagya.edu12@gmail.com<br> ⚡ Fun fact I think I am funny<br><br>
+🔭 I’m currently working on LMS project<br>🌱 I’m currently learning Nextjs, TypeScript <br>💬 Ask me about Nodejs, JavaScript, Reactjs,MogoDB<br>📫 How to reach me ssoubhagyaranjan98@gmail.com<br> ⚡ Fun fact I think I am funny<br><br>
 
 
 ## 🌐 Socials:
